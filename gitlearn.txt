@@ -2,3 +2,5 @@ hourunli love tangna
 he"ll try his best to make TN happy
 git is a distributed version control srstem
 git is a free software.
+git has a mutable index called stage.
+i love tn.
